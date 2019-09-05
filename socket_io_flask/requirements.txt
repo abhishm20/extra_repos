@@ -1,0 +1,9 @@
+eventlet
+python-socketio
+kombu
+redis
+socketIO-client===0.7.2
+gunicorn
+flask
+Flask-Script
+

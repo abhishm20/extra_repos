@@ -1,0 +1,28 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="income_after_expense <= 25177.0\nmse = 0.247\nsamples = 47\nvalue = 0.553"] ;
+1 [label="mse = 0.0\nsamples = 15\nvalue = 0.0"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="margin_percent <= 27.5\nmse = 0.152\nsamples = 32\nvalue = 0.812"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label="card_sales_percent_of_total_revenue <= 4.0\nmse = 0.05\nsamples = 19\nvalue = 0.947"] ;
+2 -> 3 ;
+4 [label="mse = 0.0\nsamples = 1\nvalue = 0.0"] ;
+3 -> 4 ;
+5 [label="mse = 0.0\nsamples = 18\nvalue = 1.0"] ;
+3 -> 5 ;
+6 [label="cibil score <= 642.0\nmse = 0.237\nsamples = 13\nvalue = 0.615"] ;
+2 -> 6 ;
+7 [label="inward_returns <= 6.5\nmse = 0.16\nsamples = 5\nvalue = 0.2"] ;
+6 -> 7 ;
+8 [label="mse = 0.0\nsamples = 4\nvalue = 0.0"] ;
+7 -> 8 ;
+9 [label="mse = 0.0\nsamples = 1\nvalue = 1.0"] ;
+7 -> 9 ;
+10 [label="abb/income <= 0.075\nmse = 0.109\nsamples = 8\nvalue = 0.875"] ;
+6 -> 10 ;
+11 [label="mse = 0.0\nsamples = 1\nvalue = 0.0"] ;
+10 -> 11 ;
+12 [label="mse = 0.0\nsamples = 7\nvalue = 1.0"] ;
+10 -> 12 ;
+}

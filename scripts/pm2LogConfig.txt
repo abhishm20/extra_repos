@@ -1,0 +1,1 @@
+pm2 start server/server.js --merge-logs --log-date-format="YYYY-MM-DD HH:mm Z"  -l logs/log -o logs/out -e logs/err

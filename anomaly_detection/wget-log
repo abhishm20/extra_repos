@@ -1,0 +1,11 @@
+--2018-09-26 21:03:02--  http://www-personal.umich.edu/~mejn/cp/data/sunspots.txt
+Resolving www-personal.umich.edu... 141.211.243.103
+Connecting to www-personal.umich.edu|141.211.243.103|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 30244 (30K) [text/plain]
+Saving to: 'dataset/sunspots.txt'
+
+     0K .......... .......... .........                       100% 83.1K=0.4s
+
+2018-09-26 21:03:03 (83.1 KB/s) - 'dataset/sunspots.txt' saved [30244/30244]
+

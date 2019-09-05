@@ -1,0 +1,7 @@
+files: 
+  - /home/ubuntu/.pm2/logs/server-error-0.log
+  - /home/ubuntu/.pm2/logs/server-out-0.log
+destination:
+  host: logs4.papertrailapp.com # NOTE: change this to YOUR papertrail host!
+  port: 21574   # NOTE: change to your Papertrail port
+  protocol: tls

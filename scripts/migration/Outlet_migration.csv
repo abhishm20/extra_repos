@@ -1,0 +1,111 @@
+Date,Client,SKU,UOM,Ordered Qty,Dispatched Qty,Rate,Amount,Outlet ID
+2016/08/02,Baba Dhaba,Onion Big,Kg,10,10,12,120,57c42da9218be744e698e8a4
+2016/08/02,Baba Dhaba,Coriander,Kg,1,1,22,22,57c42da9218be744e698e8a4
+2016/08/02,Baba Dhaba,Hybrid Tomato,Kg,60,60,25,1500,57c42da9218be744e698e8a4
+2016/08/02,Baba Dhaba,Mint,Kg,0.5,0.5,35,17.5,57c42da9218be744e698e8a4
+2016/08/02,Baba Dhaba,Onion Big,Kg,20,20,10,200,57c42da9218be744e698e8a4
+2016/08/03,Baba Dhaba,Onion Big,Kg,20,20,10,200,57c42da9218be744e698e8a4
+2016/08/03,Baba Dhaba,Potato Big,Kg,5,5,12,60,57c42da9218be744e698e8a4
+2016/08/03,Baba Dhaba,Hybrid Tomato,Kg,65,65,25,1625,57c42da9218be744e698e8a4
+2016/08/03,Baba Dhaba,Onion Big,Kg,25,25,10,250,57c42da9218be744e698e8a4
+2016/08/03,Baba Dhaba,Potato Big,Kg,5,5,13,65,57c42da9218be744e698e8a4
+2016/08/04,Baba Dhaba,Bean Pod,Kg,0.25,0.25,40,10,57c42da9218be744e698e8a4
+2016/08/04,Baba Dhaba,Onion Big,Kg,2,2,10,20,57c42da9218be744e698e8a4
+2016/08/04,Baba Dhaba,Lemon,Kg,0.25,0.25,40,10,57c42da9218be744e698e8a4
+2016/08/04,Baba Dhaba,Hybrid Tomato,Kg,0.5,0.5,40,20,57c42da9218be744e698e8a4
+2016/08/04,Baba Dhaba,Onion Big,Kg,14,14,10,140,57c42da9218be744e698e8a4
+2016/08/04,Baba Dhaba,Onion Big,Kg,45,45,7,315,57c42da9218be744e698e8a4
+2016/08/04,Baba Dhaba,Potato Big,Kg,10,10,13,130,57c42da9218be744e698e8a4
+2016/08/05,Baba Dhaba,Potato Big,Kg,5,5,13,65,57c42da9218be744e698e8a4
+2016/08/06,Baba Dhaba,Hybrid Tomato,Kg,25,25,18,450,57c42da9218be744e698e8a4
+2016/08/06,Baba Dhaba,Lemon,Kg,5,5,50,250,57c42da9218be744e698e8a4
+2016/08/06,Baba Dhaba,Onion Big,Kg,10,10,10,100,57c42da9218be744e698e8a4
+2016/08/06,Baba Dhaba,Potato Big,Kg,12,12,13,156,57c42da9218be744e698e8a4
+2016/08/07,Baba Dhaba,Cabbage,Kg,15,15,20,300,57c42da9218be744e698e8a4
+2016/08/07,Baba Dhaba,Hybrid Tomato,Kg,15,15,18,270,57c42da9218be744e698e8a4
+2016/08/07,Baba Dhaba,Potato Big,Kg,7,7,13,91,57c42da9218be744e698e8a4
+2016/08/08,Baba Dhaba,Onion Big,Kg,50,50,5,250,57c42da9218be744e698e8a4
+2016/08/08,Baba Dhaba,Onion Big,Kg,30,30,10,300,57c42da9218be744e698e8a4
+2016/08/08,Baba Dhaba,Lemon,Kg,10,10,50,500,57c42da9218be744e698e8a4
+2016/08/08,Baba Dhaba,Onion Big,Kg,15,15,10,150,57c42da9218be744e698e8a4
+2016/08/08,Baba Dhaba,Orange Carrot,Kg,3,3,15,45,57c42da9218be744e698e8a4
+2016/08/09,Baba Dhaba,Cabbage,Kg,50,50,20,1000,57c42da9218be744e698e8a4
+2016/08/09,Baba Dhaba,Lemon,Kg,4,4,50,200,57c42da9218be744e698e8a4
+2016/08/09,Baba Dhaba,Onion Big,Kg,5,5,10,50,57c42da9218be744e698e8a4
+2016/08/09,Baba Dhaba,Potato Big,Kg,5,5,13,65,57c42da9218be744e698e8a4
+2016/08/10,Baba Dhaba,Coriander,Kg,6,6,22,132,57c42da9218be744e698e8a4
+2016/08/10,Baba Dhaba,Lemon,Kg,5,5,50,250,57c42da9218be744e698e8a4
+2016/08/10,Baba Dhaba,Mint,Kg,2,2,35,70,57c42da9218be744e698e8a4
+2016/08/10,Baba Dhaba,Onion Big,Kg,8,8,10,80,57c42da9218be744e698e8a4
+2016/08/11,Baba Dhaba,Onion Big,Kg,37,37,10,370,57c42da9218be744e698e8a4
+2016/08/11,Baba Dhaba,Cabbage,Kg,5,5,20,100,57c42da9218be744e698e8a4
+2016/08/11,Baba Dhaba,Potato Big,Kg,41.5,41.5,10,415,57c42da9218be744e698e8a4
+2016/08/11,Baba Dhaba,Coriander,Kg,5,5,22,110,57c42da9218be744e698e8a4
+2016/08/11,Baba Dhaba,Hybrid Tomato,Kg,30,30,14,420,57c42da9218be744e698e8a4
+2016/08/11,Baba Dhaba,Lemon,Kg,12,12,50,600,57c42da9218be744e698e8a4
+2016/08/11,Baba Dhaba,Mint,Kg,1.5,1.5,35,52.5,57c42da9218be744e698e8a4
+2016/08/11,Baba Dhaba,Onion Big,Kg,50,50,7,350,57c42da9218be744e698e8a4
+2016/08/12,Baba Dhaba,Onion Big,Kg,13.5,13.5,10,135,57c42da9218be744e698e8a4
+2016/08/12,Baba Dhaba,Onion Big,Kg,100,100,7,700,57c42da9218be744e698e8a4
+2016/08/12,Baba Dhaba,Cauliflower,Kg,30,30,13.33,400,57c42da9218be744e698e8a4
+2016/08/12,Baba Dhaba,Lemon,Kg,6,6,50,300,57c42da9218be744e698e8a4
+2016/08/13,Baba Dhaba,Beans,Kg,5,5,30,150,57c42da9218be744e698e8a4
+2016/08/13,Baba Dhaba,Cabbage,Kg,20,20,20,400,57c42da9218be744e698e8a4
+2016/08/13,Baba Dhaba,Curry Leaves,Kg,3,3,12,36,57c42da9218be744e698e8a4
+2016/08/13,Baba Dhaba,Green Chilli Small,Kg,4,4,15,60,57c42da9218be744e698e8a4
+2016/08/13,Baba Dhaba,Lemon,Kg,7,7,50,350,57c42da9218be744e698e8a4
+2016/08/13,Baba Dhaba,Onion Big,Kg,100,100,10,1000,57c42da9218be744e698e8a4
+2016/08/13,Baba Dhaba,Orange Carrot,Kg,2,2,15,30,57c42da9218be744e698e8a4
+2016/08/13,Baba Dhaba,Potato Big,Kg,15,15,13,195,57c42da9218be744e698e8a4
+2016/08/16,Baba Dhaba,Onion Big,Kg,15,15,10,150,57c42da9218be744e698e8a4
+2016/08/16,Baba Dhaba,Cabbage,Kg,25,25,7,175,57c42da9218be744e698e8a4
+2016/08/17,Baba Dhaba,Onion Big,Kg,15,15,10,150,57c42da9218be744e698e8a4
+2016/08/17,Baba Dhaba,Curry Leaves,Kg,2,2,12,24,57c42da9218be744e698e8a4
+2016/08/17,Baba Dhaba,Potato Big,Kg,5,5,13,65,57c42da9218be744e698e8a4
+2016/08/18,Baba Dhaba,Onion Big,Kg,10,10,20,200,57c42da9218be744e698e8a4
+2016/08/18,Baba Dhaba,Potato Big,Kg,12,12,10,120,57c42da9218be744e698e8a4
+2016/08/18,Baba Dhaba,Coriander,Kg,3,3,22,66,57c42da9218be744e698e8a4
+2016/08/18,Baba Dhaba,Curry Leaves,Kg,4,4,12,48,57c42da9218be744e698e8a4
+2016/08/18,Baba Dhaba,Ginger,Kg,2.5,2.5,30,75,57c42da9218be744e698e8a4
+2016/08/18,Baba Dhaba,Onion Big,Kg,25,25,10,250,57c42da9218be744e698e8a4
+2016/08/18,Baba Dhaba,Onion Big,Kg,66.5,66.5,7,465.5,57c42da9218be744e698e8a4
+2016/08/18,Baba Dhaba,Orange Carrot,Kg,43,43,15,645,57c42da9218be744e698e8a4
+2016/08/18,Baba Dhaba,Potato Big,Kg,8,8,13,104,57c42da9218be744e698e8a4
+2016/08/19,Baba Dhaba,Beans,Kg,5.5,5.5,30,165,57c42da9218be744e698e8a4
+2016/08/19,Baba Dhaba,Coriander,Kg,3,3,22,66,57c42da9218be744e698e8a4
+2016/08/19,Baba Dhaba,Onion Big,Kg,50,50,10,500,57c42da9218be744e698e8a4
+2016/08/19,Baba Dhaba,Potato Big,Kg,4,4,13,52,57c42da9218be744e698e8a4
+2016/08/20,Baba Dhaba,Onion Big,Kg,11,11,10,110,57c42da9218be744e698e8a4
+2016/08/20,Baba Dhaba,Ginger,Kg,0.5,0.5,24,12,57c42da9218be744e698e8a4
+2016/08/20,Baba Dhaba,Green Chilli Small,Kg,1.5,1.5,15,22.5,57c42da9218be744e698e8a4
+2016/08/20,Baba Dhaba,Mint,Kg,3,3,35,105,57c42da9218be744e698e8a4
+2016/08/20,Baba Dhaba,Onion Big,Kg,15,15,10,150,57c42da9218be744e698e8a4
+2016/08/20,Baba Dhaba,Potato Big,Kg,15,15,13,195,57c42da9218be744e698e8a4
+2016/08/22,Baba Dhaba,Onion Big,Kg,20,20,10,200,57c42da9218be744e698e8a4
+2016/08/22,Baba Dhaba,Lemon,Kg,3,3,50,150,57c42da9218be744e698e8a4
+2016/08/22,Baba Dhaba,Potato Big,Kg,9,9,13,117,57c42da9218be744e698e8a4
+2016/08/23,Baba Dhaba,Onion Big,Kg,17,17,10,170,57c42da9218be744e698e8a4
+2016/08/23,Baba Dhaba,Green Chilli Small,Kg,2.5,2.5,15,37.5,57c42da9218be744e698e8a4
+2016/08/23,Baba Dhaba,Mint,Kg,1,1,35,35,57c42da9218be744e698e8a4
+2016/08/24,Baba Dhaba,Potato Big,Kg,5,5,20,100,57c42da9218be744e698e8a4
+2016/08/24,Baba Dhaba,Onion Big,Kg,15,15,10,150,57c42da9218be744e698e8a4
+2016/08/24,Baba Dhaba,Cabbage,Kg,30,30,7,210,57c42da9218be744e698e8a4
+2016/08/24,Baba Dhaba,Lemon,Kg,5,5,50,250,57c42da9218be744e698e8a4
+2016/08/25,Baba Dhaba,Onion Big,Kg,14,14,10,140,57c42da9218be744e698e8a4
+2016/08/26,Baba Dhaba,Onion Big,Kg,10,10,10,100,57c42da9218be744e698e8a4
+2016/08/27,Baba Dhaba,Onion Big,Kg,6,6,10,60,57c42da9218be744e698e8a4
+2016/08/27,Baba Dhaba,Curry Leaves,Kg,1,1,12,12,57c42da9218be744e698e8a4
+2016/08/27,Baba Dhaba,Ginger,Kg,3,3,24,72,57c42da9218be744e698e8a4
+2016/08/27,Baba Dhaba,Green Chilli Small,Kg,4,4,15,60,57c42da9218be744e698e8a4
+2016/08/27,Baba Dhaba,Lemon,Kg,3,3,50,150,57c42da9218be744e698e8a4
+2016/08/27,Baba Dhaba,Orange Carrot,Kg,2,2,15,30,57c42da9218be744e698e8a4
+2016/08/28,Baba Dhaba,Hybrid Tomato,Kg,5,5,14,70,57c42da9218be744e698e8a4
+2016/08/29,Baba Dhaba,Onion Big,Kg,20,20,10,200,57c42da9218be744e698e8a4
+2016/08/30,Baba Dhaba,Onion Big,Kg,20,20,5,100,57c42da9218be744e698e8a4
+2016/08/30,Baba Dhaba,Onion Big,Kg,31,31,7,217,57c42da9218be744e698e8a4
+2016/08/30,Baba Dhaba,Onion Big,Kg,20,20,10,200,57c42da9218be744e698e8a4
+2016/08/30,Baba Dhaba,Onion Big,Kg,15,15,10,150,57c42da9218be744e698e8a4
+2016/08/31,Baba Dhaba,Onion Big,kg,28,28,10,280,57c42da9218be744e698e8a4
+2016/08/31,Baba Dhaba,Onion Big,kg,2,2,10,20,57c42da9218be744e698e8a4
+2016/08/31,Baba Dhaba,Potato Big,kg,4,4,10,40,57c42da9218be744e698e8a4
+2016/08/31,Baba Dhaba,Onion Big,Kg,10,10,7,70,57c42da9218be744e698e8a4

@@ -1,0 +1,7 @@
+{
+  "RESULT_TOPIC": "vision_testing123",
+  "RESULT_BUCKET": "images_tests",
+  "TRANSLATE_TOPIC": "translation_tests123",
+  "TRANSLATE": true,
+  "TO_LANG": ["en"]
+}
