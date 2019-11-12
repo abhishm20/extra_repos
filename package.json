@@ -1,0 +1,24 @@
+{
+  "name": "ext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "appium-adb": "^7.14.0",
+    "appium-uiautomator2-driver": "^1.38.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishm20/extra_repos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishm20/extra_repos/issues"
+  },
+  "homepage": "https://github.com/abhishm20/extra_repos#readme"
+}

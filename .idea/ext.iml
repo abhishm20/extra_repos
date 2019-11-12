@@ -5,9 +5,11 @@
       <sourceFolder url="file://$MODULE_DIR$/IMDB-spider/befrank" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IMDB-spider/befrank/spiders" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IMDB-spider" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.env" />
       <excludeFolder url="file://$MODULE_DIR$/my-venv3" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 2.7 (ext)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (ext)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="R User Library" level="project" />
     <orderEntry type="library" name="R Skeletons" level="application" />

@@ -21,14 +21,17 @@ directory = '/Users/abhishek/Desktop/justdial_links/'
 files = os.listdir(directory)
 
 for file in files:
+    if 'json' not in file:
+        continue
     writer = pd.ExcelWriter(
-        '/Users/abhishek/Desktop/justdial_links/%s.xlsx' % file,
+        '/Users/abhishek/Desktop/justdial_data/%s.xlsx' % file,
         engine='openpyxl')
+    print(os.path.join(directory, file))
     f = open(os.path.join(directory, file))
     links = json.load(f)
     links = [a for a in links if a]
     for index, l in enumerate(links):
-        print index, l['link']
+        print(index, l['link'])
         if not l['link']:
             continue
 
@@ -90,10 +93,9 @@ for file in files:
             browser.get(l['link'].replace('://www.', '://t.'))
             number = browser.find_element_by_css_selector('#shell span.dpvstph > span').text
             number = re.sub("[+,(,),-]", '', number)
-            print([name, number, address, tags, l['link'], rating, rates, ", ".join(image_links)])
             data.append([name, number, address, tags, l['link'], rating, rates, ", ".join(image_links)])
         except Exception as e:
-            print 2, e
+            print(2, e)
             try:
                 browser.execute_script("closePopUp('best_deal_div');")
                 browser.execute_script("$('#best_deal_div').remove();")
@@ -104,4 +106,4 @@ for file in files:
     df = pd.DataFrame(np.array(data), columns=columns)
     df.to_excel(writer, "Listing")
     writer.save()
-    print "Done"
+    print("Done")
