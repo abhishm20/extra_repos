@@ -69,7 +69,7 @@ for pages, category, city in categories:
                 #     lambda browser: browser.find_element_by_xpath('//*[@id="newphoto0"]/span'))
                 data.append({'category': category, 'link': l.get_attribute('data-href')})
             except Exception as e:
-                print 2, e
+                print(2, e)
                 try:
                     browser.execute_script("closePopUp('best_deal_div');")
                     browser.execute_script("$('#best_deal_div').remove();")
